@@ -1,9 +1,17 @@
+
 # slider_challenge
 
 ## Project: Slider Challenge
 
 This repository contains an implementation of a challenge inspired by The Flutter Way video:
 https://www.youtube.com/watch?v=xqAT-yJTTwM
+
+## Video Reference
+
+https://github.com/user-attachments/assets/b862e232-4daa-41e7-a4c0-8180a38533e6
+
+
+
 
 ## Description
 - **Objective:** Recreate and integrate an interactive slider with behavior and styling similar to the reference video.
